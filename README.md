@@ -22,24 +22,42 @@ List out the key features of your application.
 Detailed instructions on how to install, configure, and get the project running.
 clone the reposiory:
 ```bash 
-git clone https://github.com/Sushil808174/Zocket-Assignment-with-go-programming
+git clone https://github.com/Rahul1905-sk/zockett.git
+
+
 Navigate to the project directory: cd zocket/cmd
+
+
 Run the application: go run main.go
 ```
  
 ## API Endpoints
 
 for products 
+
+
 GET /api/products - retrieve all products
+
 GET /api/products/id - retrieve single product
+
 POST /api/products/add - Add a product
+
 PUT /api/products/update/id - Modify single product
+
 DELETE /api/products/delete/id - Delete single product
 
+
+
 for users 
+
+
 GET /api/users - retrieve all users
+
 POST /api/users/add - Add single user
+
 PUT /api/users/update/id - Modify single user
+
 DELETE /api/users/delete/id - Delete single user
+
 
  
