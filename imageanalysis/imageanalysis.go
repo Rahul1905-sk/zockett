@@ -13,10 +13,10 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
-	"github.com/gin-gonic/gin"
+	// "github.com/gin-gonic/gin"
 	 
 	// "zocket-assignment/db"
-	"zocket-assignment/models"
+	// "zocket-assignment/models"
 
 	"github.com/nfnt/resize"
 	"go.mongodb.org/mongo-driver/bson"
